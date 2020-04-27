@@ -1,6 +1,6 @@
 {
     "name": "jildertmiedema/laravel-plupload",
-    "description": "Laravel 5/Plupload - Handle large file uploads",
+    "description": "Laravel 7/Plupload - Handle large file uploads",
     "authors": [
         {
             "name": "Jildert Miedema",
@@ -26,5 +26,6 @@
             "JildertMiedema\\LaravelPlupload": "src/"
         }
     },
+    "target-dir": "JildertMiedema/LaravelPlupload",
     "minimum-stability": "stable"
 }
